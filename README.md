@@ -1,4 +1,9 @@
-### What's for:
+# Data Map
+
+* Platform: Wongnai
+* Country: Thailand
+* Website: https://www.wongnai.com/
+
 This project is based on Scrapy. It can be used as a sample backend or a sample to extract data from https://www.wongnai.com/.
 
 ### Special Usage:
