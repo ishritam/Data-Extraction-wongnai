@@ -14,7 +14,6 @@ This project is based on Scrapy. It can be used as a sample backend or a sample 
     ├── config.json                  > Enviornment file storing all required enviornment variables 
     ├── README.txt                   > The top-level README for developers using this project.
     ├── requirements.txt             > All the requirements which is needed to run this project.
-    ├── final.csv                    > Scraped data in CSV form.
 
 
 ### Project structure (After run)
