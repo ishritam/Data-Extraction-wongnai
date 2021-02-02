@@ -28,6 +28,9 @@ This project is based on Scrapy. It can be used as a sample backend or a sample 
     ├── README.txt                   > The top-level README for developers using this project.
     ├── requirements.txt             > All the requirements which is needed to run this project.
     ├── final.csv                    > Scraped data in CSV form.
+    ├── Product_images               > Download all the product images into this folder.
+        ├── ........png
+        ├── ..
     ├── logs
         ├── info.log                  > all logger.info('message') goes strictly to info.log
         ├── error.log                 > all logger.error('message') goes strictly to error.log
