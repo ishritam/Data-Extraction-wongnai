@@ -41,8 +41,8 @@ This project is based on Scrapy. It can be used as a sample backend or a sample 
 * It is advised to create a virtual enviornment if you have existing conflicts with python & other libraries/packages installtions.
 
 ### Quickstart:
-* Make sure you have updated your OS to latest version.
-* Install all necessary dependencies for this project from requirements.txt
-* Run pip install -r requirements.txt for installing dependencies.
+* Please install all necessary dependencies for this project from requirements.txt
+* Run `pip install -r requirements.txt` for installing dependencies.
 * Please change parameters accordingly in (config.py) config file as per your system configuration before running the main.py file.
 * Run main.py file in for turn on the scrapper.
+    `python main.py`
