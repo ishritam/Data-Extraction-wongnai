@@ -46,3 +46,6 @@ This project is based on Scrapy. It can be used as a sample backend or a sample 
 * Please change parameters accordingly in (config.py) config file as per your system configuration before running the main.py file.
 * Run main.py file in for turn on the scrapper.
     `python main.py`
+
+### CSV output:
+    final.csv : https://drive.google.com/file/d/1Lsttbxy0ymnKcyBRiIUxnFPdPCG6h20f/view?usp=sharing
