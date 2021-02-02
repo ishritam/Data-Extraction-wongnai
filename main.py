@@ -1,15 +1,20 @@
-import requests
-import json
-import config
-from tqdm import tqdm
-from scrapy import Selector
-import pandas as pd
-import boto3
-from botocore.exceptions import NoCredentialsError
-import requests
-import shutil
-from loguru import logger
-import os
+# import libraries
+try:
+    import requests
+    import json
+    import config
+    from tqdm import tqdm
+    from scrapy import Selector
+    import pandas as pd
+    import boto3
+    from botocore.exceptions import NoCredentialsError
+    import requests
+    import shutil
+    from loguru import logger
+    import os
+    
+except Exception as e:
+    logger.error(f'Some module is missing {e}')
 
 
 logger.remove()
