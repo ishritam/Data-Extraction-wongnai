@@ -188,7 +188,7 @@ def product_view(urls):
             )
     df = pd.DataFrame(lis)
     # saving the dataframe 
-    df.to_csv('final.csv')
+    df.to_csv('final.csv',index=False)
 
 
 if __name__ =="__main__":
